@@ -1,2 +1,4 @@
 # shiny-python
-Materials used to learn how to develop shiny apps using python
+
+
+This repository is for learning how to develop Shiny apps in Python. It follows a very structured tutorial from Keith Galli's tutorial here: [https://github.com/KeithGalli/shiny-python-projects/tree/master]. 
