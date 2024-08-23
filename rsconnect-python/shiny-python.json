@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\alexk\\Documents\\code\\shiny-python",
+        "app_url": "https://kmshimshiny.shinyapps.io/sales-video-1/",
+        "app_id": 12504584,
+        "app_guid": null,
+        "title": "sales-video-1",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
